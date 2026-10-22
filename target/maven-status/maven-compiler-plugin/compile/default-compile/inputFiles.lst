@@ -1,0 +1,11 @@
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\ClienteServiceApplication.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\delivery\exception\ApiErrorResponse.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\delivery\exception\GlobalExceptionHandler.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\delivery\rest\ClienteRestController.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\domain\entities\Cliente.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\domain\entities\Region.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\domain\exception\ClienteNotFoundException.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\domain\exception\ClienteServiceException.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\domain\repositories\IClienteDao.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\domain\services\ClienteServiceImpl.java
+C:\Users\esteban\Documents\springbootCompleto\cliente-service\src\main\java\com\denkitronik\clienteservice\domain\services\IClienteService.java
