@@ -1,0 +1,5 @@
+com\denkitronik\clienteservice\domain\repositories\IClienteDaoTest.class
+com\denkitronik\clienteservice\delivery\rest\ClienteRestControllerTest.class
+com\denkitronik\clienteservice\domain\services\ClienteServiceImplTest.class
+com\denkitronik\clienteservice\integration\ClienteIntegrationTest.class
+com\denkitronik\clienteservice\ClienteServiceApplicationTests.class

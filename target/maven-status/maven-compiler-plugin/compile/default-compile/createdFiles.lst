@@ -1,0 +1,11 @@
+com\denkitronik\clienteservice\delivery\exception\GlobalExceptionHandler.class
+com\denkitronik\clienteservice\domain\entities\Cliente.class
+com\denkitronik\clienteservice\delivery\exception\ApiErrorResponse.class
+com\denkitronik\clienteservice\ClienteServiceApplication.class
+com\denkitronik\clienteservice\domain\services\ClienteServiceImpl.class
+com\denkitronik\clienteservice\domain\exception\ClienteNotFoundException.class
+com\denkitronik\clienteservice\delivery\rest\ClienteRestController.class
+com\denkitronik\clienteservice\domain\entities\Region.class
+com\denkitronik\clienteservice\domain\services\IClienteService.class
+com\denkitronik\clienteservice\domain\exception\ClienteServiceException.class
+com\denkitronik\clienteservice\domain\repositories\IClienteDao.class
